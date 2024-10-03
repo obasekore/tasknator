@@ -1,0 +1,11 @@
+{
+    "name": "taskinator-project-file",
+    "version": "24.8.0",
+    "description": "taskinator project file",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "private": true,
+    "dependencies": {},
+    "engines": {
+        "node": ">=18"
+    }
+}

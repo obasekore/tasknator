@@ -1,0 +1,201 @@
+<ew-language date="2024/10/2" id="en-US" author="e.World Technology Limited">
+  <project>
+    <phrase id="bodytitle" value="Taskinator" />
+    <phrase id="footertext" value="&amp;copy;2023 e.World Technology Limited. All rights reserved." />
+    <menu id="3">
+      <phrase id="menutext" value="Services" />
+    </menu>
+    <menu id="4">
+      <phrase id="menutext" value="Tasks" />
+    </menu>
+    <menu id="6">
+      <phrase id="menutext" value="Users" />
+    </menu>
+    <menu id="7">
+      <phrase id="menutext" value="User Level Permissions" />
+    </menu>
+    <menu id="8">
+      <phrase id="menutext" value="User Levels" />
+    </menu>
+    <menu id="9">
+      <phrase id="menutext" value="Tasker Service" />
+    </menu>
+    <menu id="10">
+      <phrase id="menutext" value="Reviews And Ratings" />
+    </menu>
+    <table id="services">
+      <phrase id="tblcaption" value="Services" />
+      <field id="serviceid">
+        <phrase id="fldcaption" value="Service ID" />
+      </field>
+      <field id="servicename">
+        <phrase id="fldcaption" value="Service Name" />
+      </field>
+      <field id="parentservice">
+        <phrase id="fldcaption" value="Parent Service" />
+      </field>
+      <field id="status">
+        <phrase id="fldcaption" value="Status" />
+        <phrase id="fldtagvalue1" value="0" />
+        <phrase id="fldtagcaption1" value="Disabled" />
+        <phrase id="fldtagvalue2" value="1" />
+        <phrase id="fldtagcaption2" value="Enabled" />
+      </field>
+      <field id="options">
+        <phrase id="fldcaption" value="Options" />
+      </field>
+      <field id="createdat">
+        <phrase id="fldcaption" value="Created At" />
+      </field>
+      <field id="updatedat">
+        <phrase id="fldcaption" value="Updated At" />
+      </field>
+    </table>
+    <table id="tasks">
+      <phrase id="tblcaption" value="Tasks" />
+      <field id="taskid">
+        <phrase id="fldcaption" value="Task ID" />
+      </field>
+      <field id="_userid">
+        <phrase id="fldcaption" value="User ID" />
+      </field>
+      <field id="taskerid">
+        <phrase id="fldcaption" value="Tasker ID" />
+      </field>
+      <field id="location">
+        <phrase id="fldcaption" value="Location" />
+      </field>
+      <field id="starttime">
+        <phrase id="fldcaption" value="Start Time" />
+      </field>
+      <field id="status">
+        <phrase id="fldcaption" value="Status" />
+      </field>
+      <field id="duration">
+        <phrase id="fldcaption" value="Duration" />
+      </field>
+      <field id="createdat">
+        <phrase id="fldcaption" value="Created At" />
+      </field>
+      <field id="updatedat">
+        <phrase id="fldcaption" value="Updated At" />
+      </field>
+      <field id="serviceid">
+        <phrase id="fldcaption" value="Service ID" />
+      </field>
+    </table>
+    <table id="users">
+      <field id="id">
+        <phrase id="fldcaption" value="ID" />
+      </field>
+      <field id="firstname">
+        <phrase id="fldcaption" value="First Name" />
+      </field>
+      <field id="lastname">
+        <phrase id="fldcaption" value="Last Name" />
+      </field>
+      <field id="_email">
+        <phrase id="fldcaption" value="Email" />
+      </field>
+      <field id="_password">
+        <phrase id="fldcaption" value="Password" />
+      </field>
+      <field id="_token">
+        <phrase id="fldcaption" value="Token" />
+      </field>
+      <field id="_profile">
+        <phrase id="fldcaption" value="Profile" />
+      </field>
+      <field id="avatar">
+        <phrase id="fldcaption" value="Avatar" />
+      </field>
+      <field id="createdat">
+        <phrase id="fldcaption" value="Created At" />
+      </field>
+      <field id="updatedat">
+        <phrase id="fldcaption" value="Updated At" />
+      </field>
+      <field id="_userlevel">
+        <phrase id="fldcaption" value="User Level" />
+      </field>
+      <field id="status">
+        <phrase id="fldcaption" value="Status" />
+      </field>
+    </table>
+    <table id="userlevelpermissions">
+      <phrase id="tblcaption" value="User Level Permissions" />
+      <field id="userlevelid">
+        <phrase id="fldcaption" value="User Level ID" />
+      </field>
+      <field id="_tablename">
+        <phrase id="fldcaption" value="Table Name" />
+      </field>
+      <field id="_permission">
+        <phrase id="fldcaption" value="Permission" />
+      </field>
+    </table>
+    <table id="userlevels">
+      <phrase id="tblcaption" value="User Levels" />
+      <field id="userlevelid">
+        <phrase id="fldcaption" value="User Level ID" />
+      </field>
+      <field id="userlevelname">
+        <phrase id="fldcaption" value="User Level Name" />
+      </field>
+    </table>
+    <table id="taskerservice">
+      <phrase id="tblcaption" value="Tasker Service" />
+      <field id="taskerserviceid">
+        <phrase id="fldcaption" value="Tasker Service ID" />
+      </field>
+      <field id="_userid">
+        <phrase id="fldcaption" value="User ID" />
+      </field>
+      <field id="serviceid">
+        <phrase id="fldcaption" value="Service ID" />
+      </field>
+      <field id="averagerating">
+        <phrase id="fldcaption" value="Average Rating" />
+      </field>
+      <field id="reviewcount">
+        <phrase id="fldcaption" value="Review Count" />
+      </field>
+      <field id="status">
+        <phrase id="fldcaption" value="Status" />
+      </field>
+      <field id="createdat">
+        <phrase id="fldcaption" value="Created At" />
+      </field>
+      <field id="updatedat">
+        <phrase id="fldcaption" value="Updated At" />
+      </field>
+    </table>
+    <table id="reviewsandratings">
+      <phrase id="tblcaption" value="Reviews And Ratings" />
+      <field id="reviewratingid">
+        <phrase id="fldcaption" value="Review Rating ID" />
+      </field>
+      <field id="taskid">
+        <phrase id="fldcaption" value="Task ID" />
+      </field>
+      <field id="review">
+        <phrase id="fldcaption" value="Review" />
+      </field>
+      <field id="rating">
+        <phrase id="fldcaption" value="Rating" />
+      </field>
+      <field id="_userid">
+        <phrase id="fldcaption" value="User ID" />
+      </field>
+      <field id="status">
+        <phrase id="fldcaption" value="Status" />
+      </field>
+      <field id="createdat">
+        <phrase id="fldcaption" value="Created At" />
+      </field>
+      <field id="updatedat">
+        <phrase id="fldcaption" value="Updated At" />
+      </field>
+    </table>
+  </project>
+</ew-language>
